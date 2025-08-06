@@ -8,7 +8,7 @@ This repository is organized into folders, with each folder representing a speci
 
 ### 1. Command-Line Chat with Context (Node.js)
 
-- **Folder:** `storeHistory/`
+- **Folder:** `chatWithContext/`
 - **Description:** A simple command-line interface (CLI) application that allows you to have a continuous conversation with a Large Language Model (LLM). It remembers the previous turns of the conversation to provide contextually relevant responses.
 - **Key Learnings:**
   - Interacting with an LLM API from a server-side environment.
